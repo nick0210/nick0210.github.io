@@ -149,3 +149,11 @@ footer {
 	max-width: 30%;
 	max-height: 30%
 }
+
+#headshot {
+	height: auto;
+	width: auto;
+	max-height: 10%;
+	max-width: 10%;
+	
+}
